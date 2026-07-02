@@ -44,8 +44,20 @@
 ### 📊 GitHub 统计
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tang730125633&show_icons=true&theme=chartreuse&title_color=0f7d80&icon_color=0f7d80&bg_color=ffffff" alt="stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tang730125633&layout=compact&theme=chartreuse&title_color=0f7d80&bg_color=ffffff" alt="langs" />
+  <strong>60+</strong> 公开仓库 · <strong>6</strong> 粉丝 · <strong>9</strong> 关注 · <strong>381</strong> 次年度贡献
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square" alt="Shell" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square" alt="Go" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square" alt="Java" />
+</p>
+
+<p align="center">
+  <em>主力语言：Python / TypeScript / Shell · Agent 编排为主，全栈落地</em>
 </p>
 
 ---
