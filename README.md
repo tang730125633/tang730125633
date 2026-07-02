@@ -1,9 +1,8 @@
 <div align="center">
 
-<!-- Typewriter SVG banner -->
-[![Typewriter SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F7D80&center=true&vCenter=true&random=false&width=600&lines=AI+%E6%99%BA%E8%83%BD%E4%BD%93%E7%BC%96%E6%8E%92%E5%B8%88;Remote+Creator+%C2%B7+%E8%BF%9C%E7%A8%8B%E5%88%9B%E4%BD%9C%E8%80%85;MacBook+%2B+AI+%3D+%E8%87%AA%E7%94%B1%E6%97%85%E5%B1%85)](https://git.io/typing-svg)
+# 🤖 AI 智能体编排师 · 远程创作者
 
-**用一台 MacBook 和 AI 在任何地方创造价值，自由旅居，不做任何人的螺丝钉。** 🏃‍♂️️🌅
+**用一台 MacBook 和 AI 在任何地方创造价值，自由旅居，不做任何人的螺丝钉。** 🏃‍♂️🌅
 
 </div>
 
@@ -19,15 +18,7 @@
 
 ### 🛠️ 技术栈
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B35?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
-![Feishu](https://img.shields.io/badge/Feishu-3370FF?style=flat-square&logo=larksuite&logoColor=white)
-![HeyGen](https://img.shields.io/badge/HeyGen-7C3AED?style=flat-square&logoColor=white)
-![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=flat-square&logoColor=white)
+`Python` · `TypeScript` · `Shell` · `Go` · `Claude Code` · `OpenClaw` · `飞书生态` · `HeyGen` · `ElevenLabs` · `火山引擎`
 
 ### 🚀 在做什么
 
@@ -41,55 +32,21 @@
 
 ### 📌 核心项目
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/tang730125633/agent-orchestration-docs">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang730125633&repo=agent-orchestration-docs&theme=chartreuse&title_color=0f7d80&icon_color=fff" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/tang730125633/e-video-creator">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang730125633&repo=e-video-creator&theme=chartreuse&title_color=0f7d80&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/tang730125633/dai-zerocarbon-kb">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang730125633&repo=dai-zerocarbon-kb&theme=chartreuse&title_color=0f7d80&icon_color=fff" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/tang730125633/alwayshaveaplan">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang730125633&repo=alwayshaveaplan&theme=chartreuse&title_color=0f7d80&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/tang730125633/tang-energy-feed">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang730125633&repo=tang-energy-feed&theme=chartreuse&title_color=0f7d80&icon_color=fff" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/tang730125633/wechat-article-producer">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tang730125633&repo=wechat-article-producer&theme=chartreuse&title_color=0f7d80&icon_color=fff" />
-      </a>
-    </td>
-  </tr>
-</table>
+| 仓库 | 说明 |
+|------|------|
+| 📚 [`agent-orchestration-docs`](https://github.com/tang730125633/agent-orchestration-docs) | 多 Agent 编排文档与 playbook（Claude Code / OpenClaw / KeyMeCode） |
+| 🎬 [`e-video-creator`](https://github.com/tang730125633/e-video-creator) | 视频创作工具 |
+| 🌱 [`dai-zerocarbon-kb`](https://github.com/tang730125633/dai-zerocarbon-kb) | 零碳能源标准知识库：2509 条国标自动采集查重 |
+| 🎯 [`alwayshaveaplan`](https://github.com/tang730125633/alwayshaveaplan) | macOS 专注助手 — 毛玻璃 + 激励文案 |
+| 📰 [`tang-energy-feed`](https://github.com/tang730125633/tang-energy-feed) | 每日能源新闻 + 铜价 JSON feed（GitHub Actions 自动更新） |
+| ✍️ [`wechat-article-producer`](https://github.com/tang730125633/wechat-article-producer) | 公众号全流程自动化：对话→写文→排版→推送草稿箱 |
 
 ### 📊 GitHub 统计
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tang730125633&show_icons=true&theme=chartreuse&title_color=0f7d80&icon_color=0f7d80&bg_color=ffffff" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tang730125633&layout=compact&theme=chartreuse&title_color=0f7d80&bg_color=ffffff" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tang730125633&theme=chartreuse&ring=0f7d80&fire=0f7d80&currStreakLabel=0f7d80" />
-</div>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=tang730125633&show_icons=true&theme=chartreuse&title_color=0f7d80&icon_color=0f7d80&bg_color=ffffff" alt="stats" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tang730125633&layout=compact&theme=chartreuse&title_color=0f7d80&bg_color=ffffff" alt="langs" />
+</p>
 
 ---
 
