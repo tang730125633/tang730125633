@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">唐泽龙，AI 产品构建者</title>
+  <desc id="desc">将 AI 模型、智能体与真实业务流程连接成可运行、可验证、可交接的产品。</desc>
+  <rect width="1200" height="360" rx="28" fill="#f6f2e9"/>
+  <path d="M0 72H1200M0 144H1200M0 216H1200M0 288H1200M120 0V360M240 0V360M360 0V360M480 0V360M600 0V360M720 0V360M840 0V360M960 0V360M1080 0V360" stroke="#ded7ca" stroke-width="1"/>
+  <rect x="58" y="54" width="1084" height="252" rx="22" fill="#fffdf8" stroke="#17191c" stroke-width="2"/>
+  <circle cx="91" cy="87" r="8" fill="#ef6a35"/>
+  <text x="115" y="94" fill="#17191c" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="22" letter-spacing="3">ZEL / BUILDS AI PRODUCTS</text>
+  <text x="88" y="184" fill="#17191c" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif" font-size="60" font-weight="750">唐泽龙 · Zelong Tang</text>
+  <text x="90" y="240" fill="#555b61" font-family="Inter, PingFang SC, Microsoft YaHei, sans-serif" font-size="27">AI 产品构建 · 智能体编排 · 业务自动化</text>
+  <path d="M840 268H1110" stroke="#17191c" stroke-width="2"/>
+  <text x="840" y="291" fill="#17191c" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="2">IDEA → SYSTEM → DELIVERY</text>
+</svg>
