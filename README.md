@@ -1,27 +1,29 @@
 <p align="center">
-  <img src="./assets/profile-hero.svg" width="100%" alt="唐泽龙：AI 产品构建、智能体编排与业务自动化">
+  <img src="./assets/profile-hero.svg" width="100%" alt="唐泽龙与猫一起把想法做成经过验证、可以交付的 AI 工具">
 </p>
 
 <p align="center">
   <a href="https://zelong.vip/">个人网站</a> ·
   <a href="https://github.com/tang730125633?tab=repositories">全部项目</a> ·
-  <a href="https://github.com/tang730125633/pointer-following-mascot">开源 Skill</a>
+  <a href="https://github.com/tang730125633/pointer-following-mascot">公开 Skill</a>
 </p>
 
-我是一名自学型 AI Builder，主要把 AI 模型、Agent 和真实业务流程连接成**可运行、可验证、可交接**的产品。我的工作横跨 AI 内容创作、模型路由、飞书自动化、行业知识系统和个人效率工具。
+我是唐泽龙（Zelong Tang），也可以叫我 Zel。中专汽修专业出身，现在是一名 **AI 智能体编排师与产品协作负责人**。
 
-我不把“代码能跑”当作完成：测试、部署、运行证据和用户真正可用，是四个需要分别确认的状态。
+我不是传统科班程序员。我的优势是把模糊问题讲清楚、拆成可验证的任务，再组织模型、Agent、代码与真人协作，把想法做成普通人真正能用的产品。
+
+我的交付标准是 **IDEA → VERIFY → SHIP**：代码能跑、测试通过、已经部署和用户真正可用，是四个需要分别确认的状态。
 
 ## 代表项目
 
-| 项目 | 它解决什么 | 已具备的交付证据 |
-| --- | --- | --- |
-| [黄雀 AI 微信小程序](https://github.com/tang730125633/huangque-miniprogram) | 在微信内完成 IP 定位、作图、配音、视频与作品管理 | 原生小程序、契约测试、完整运行与发布说明 |
-| [鼠标跟随萌宠 Skill](https://github.com/tang730125633/pointer-following-mascot) | 为网站加入轻量、可复用的互动角色 | 零依赖双方案、240 帧图集、示例与 MIT 许可 |
-| [能源行业早报](https://github.com/tang730125633/tang-energy-feed) | 自动采集能源新闻与铜价并投递飞书 | GitHub Actions、双部署模式、安装与运维文档 |
-| [飞书客户专属群工具](https://github.com/tang730125633/feishu-agent-groups) | 批量建立“一客户一群一助手”的服务流程 | Dry-run、断点续跑、限频、防重和安全边界 |
-| [东晟 AI 健康管家](https://github.com/tang730125633/dongsheng-ai-health-manager) | 提供健康问答、图片解读与受控产品推荐 | 风险拦截、故障兜底、测试入口与隐私边界 |
-| [AlwaysHaveAPlan](https://github.com/tang730125633/alwayshaveaplan) | 在 macOS 解锁与专注场景中提醒当前计划 | 安装脚本、产品截图、自动构建与 Releases |
+- **[黄雀 AI 微信小程序](https://github.com/tang730125633/huangque-miniprogram)** — 把 IP 定位、AI 作图、配音、视频生成与作品管理串进微信创作流程。
+- **[能源行业早报](https://github.com/tang730125633/tang-energy-feed)** — 聚合能源新闻与长江铜价，产出带来源状态的 JSON feed，并可由 GitHub Actions 投递飞书。
+- **[飞书客户专属群工具](https://github.com/tang730125633/feishu-agent-groups)** — 批量建立「客户 + 能力 Bot + 运营者」专属群，默认 DRY-RUN，并支持试点、断点续跑、防重与限频停机。
+- **[AlwaysHaveAPlan](https://github.com/tang730125633/alwayshaveaplan)** — 一款 macOS 原生专注工具：解锁时回看当前日程，专注结束后可把记录写入个人 Obsidian 日记。
+
+## 公开 Skills
+
+- **[pointer-following-mascot](https://github.com/tang730125633/pointer-following-mascot)** — 为网站加入鼠标跟随萌宠；提供零依赖分层 DOM 与可复现的 240 帧方向精灵图两种方案。
 
 ## 我擅长的事情
 
@@ -36,6 +38,8 @@
 
 ## 关于我
 
-非科班出身，从汽修专业一路自学到 AI 产品与自动化交付。我喜欢把复杂技术变成普通人和真实业务能够使用的工具。
+我从汽修专业毕业后靠自学走进 AI。比起包装学历和头衔，我更愿意公开展示：问题是怎么被拆解的、系统是怎么落地的，以及哪些部分还没有完成验证。
 
-<p align="center"><strong>From an idea to a working system.</strong></p>
+我的长期方向，是用一台 MacBook、AI 和一套可靠的协作方法，在任何地方持续创造真实价值。
+
+<p align="center"><strong>From an idea to a verified, working system.</strong></p>
