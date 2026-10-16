@@ -60,6 +60,10 @@ AlwaysHaveAPlan 基于 [ChrisZou 的项目](https://github.com/ChrisZou/alwaysha
 
 ## 找到我 Say hello
 
+[![抖音](https://img.shields.io/badge/%E6%8A%96%E9%9F%B3-161823?style=flat&logo=tiktok&logoColor=white)](https://www.douyin.com/user/MS4wLjABAAAAufBGcs6J2XdWIloCpoAXp_3d9nPiXOLwqkq0kSO7vtKFucw9xaeA12Cg8y9n-mNI?from_tab_name=main)
+[![小红书](https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-FF2442?style=flat&logo=xiaohongshu&logoColor=white)](https://www.xiaohongshu.com/user/profile/6444cff00000000012035f7d)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/tngzlng541406)
+
 [个人网站](https://zelong.vip/) · [看看我的项目](https://github.com/tang730125633?tab=repositories)
 
 欢迎交流 AI 工具、自动化和产品想法 👋
